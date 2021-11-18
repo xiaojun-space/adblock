@@ -1,1 +1,4 @@
-HOST-SUFFIX,snssdk.com,WhiteList
+HOST,log.snssdk.com,WhiteList
+HOST,ib.snssdk.com,WhiteList
+HOST,i.snssdk.com,WhiteList
+HOST,dig.bdurl.net,WhiteList
