@@ -3,3 +3,6 @@ HOST,log.snssdk.com,WhiteList
 HOST,ib.snssdk.com,WhiteList
 HOST,i.snssdk.com,WhiteList
 HOST,dig.bdurl.net,WhiteList
+
+#微博
+HOST,f.video.weibocdn.com,WhiteList
