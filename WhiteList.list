@@ -3,3 +3,6 @@ HOST,log.snssdk.com,WhiteList
 HOST,ib.snssdk.com,WhiteList
 HOST,i.snssdk.com,WhiteList
 HOST,dig.bdurl.net,WhiteList
+
+#淘宝授权登录
+host-suffix,acs4baichuan.m.taobao.com,WhiteList
