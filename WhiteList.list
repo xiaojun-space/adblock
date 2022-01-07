@@ -7,14 +7,4 @@ HOST,dig.bdurl.net,WhiteList
 #淘宝授权登录
 host-suffix,acs4baichuan.m.taobao.com,WhiteList
 
-#模拟城市
-host-suffix,adcolony.com,WhiteList
-host-suffix,app-measurement.com,WhiteList
-host-suffix,applovin.com,WhiteList
-host-suffix,mopub.com,WhiteList
-host-suffix,vungle.com,WhiteList
-host-suffix,tapjoy.com,WhiteList
-host-suffix,supersonicads.com,WhiteList
-host-suffix,singular.net,WhiteList
-host-suffix,tapjoyads.com,WhiteList
-host-suffix,unity3d.com,WhiteList
+
