@@ -7,4 +7,5 @@ HOST,dig.bdurl.net,WhiteList
 #淘宝授权登录
 host-suffix,acs4baichuan.m.taobao.com,WhiteList
 
-
+#微信红包封面领取
+host-suffix,as.weixin.qq.com,WhiteList
